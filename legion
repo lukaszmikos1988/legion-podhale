@@ -1,0 +1,13 @@
+index.html
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legion Podhale</title>
+</head>
+<body>
+    <h1>Witamy na stronie Legionu Podhale!</h1>
+    <p>To jest nasza oficjalna strona internetowa.</p>
+</body>
+</html>
